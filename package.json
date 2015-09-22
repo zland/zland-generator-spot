@@ -1,6 +1,6 @@
 {
   "name": "zland-generator-spot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Florian Biewald <florian@zland.io>",
   "description": "zland generator spot",
   "devDependencies": {
@@ -42,8 +42,8 @@
     "underscore": "~1.8.3",
     "url-loader": "^0.5.6",
     "when": "^3.7.3",
-    "zland-core": "git+ssh://git@do1:/opt/git/zland-core-react.git",
-    "zland-sensors": "git+ssh://git@do1:/opt/git/zland-sensors.git"
+    "zland-core": "^0.1.0",
+    "zland-sensors": "^0.1.0"
   },
   "keywords": [
     "zland",
