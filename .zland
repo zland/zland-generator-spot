@@ -1,0 +1,14 @@
+{
+  "name": "Generator Spot",
+  "resolveAlias": "generatorSpot",
+  "author": "Florian Biewald",
+  "canvasStoreValues": {
+    "spots": {
+      "store": "stores/SpotStore",
+      "method": "getSpots()"
+    }
+  },
+  "canvasStores": [
+    "stores/SpotStore"
+  ]
+}
